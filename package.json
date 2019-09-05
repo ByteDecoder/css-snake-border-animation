@@ -14,6 +14,7 @@
     "eslint": "^6.3.0",
     "parcel-bundler": "^1.12.3",
     "postcss-modules": "^1.4.1",
+    "sass": "^1.23.0-module.beta.1",
     "stylelint": "^10.1.0"
   },
   "dependencies": {
